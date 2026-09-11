@@ -1,3 +1,4 @@
+# Local AI Email Assistant using LangChain and Ollama
 import streamlit as st
 from langchain_ollama import ChatOllama
 
